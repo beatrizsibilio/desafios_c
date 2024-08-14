@@ -20,7 +20,7 @@ O código contém funcões para realizar as seguintes ações:
     O objetivo deste trabalho é fazer um programa de cadastro de produtos através de uma estrutura de dados contendo: nome, quantidade atual, preço e data de validade do produto.<br>
 O código contém funções para realizar as seguintes ações:
 
-    1 - Entra dados
+    1 - Entrada de dados
     2 - Listar produtos
     3 - Pesquisar produto pelo nome completo
     4 - Pesquisar data de validade (mês/ano)
