@@ -1,7 +1,8 @@
 **Trabalhos da matéria Linguagem de Programação do segundo semestre de ADS na FATEC RL**
 
 **DESAFIO 1**<br>
-    O objetivo desse trabalho é escrever um programa para cadastro de 3 produtos e suas respectivas quantidades, devendo conter 3 vetores unidimensionais para produto[20] e 3 quantidades do tipo int declarados como variável global. O código contém funcões para realizar as seguintes ações:
+    O objetivo desse trabalho é escrever um programa para cadastro de 3 produtos e suas respectivas quantidades, devendo conter 3 vetores unidimensionais para produto[20] e 3 quantidades do tipo int declaradas como variável global.<br>
+O código contém funcões para realizar as seguintes ações:
 
     1 - Entrada de dados
     2 - Listar dados
@@ -16,7 +17,8 @@
 <br>
 
 **DESAFIO 2**<br>
-    O objetivo deste trabalho é fazer um programa de cadastro de produtos através de uma estrutura de dados contendo: nome, quantidade atual, preço e data de validade do produto. O código contém funções para realizar as seguintes ações:
+    O objetivo deste trabalho é fazer um programa de cadastro de produtos através de uma estrutura de dados contendo: nome, quantidade atual, preço e data de validade do produto.<br>
+O código contém funções para realizar as seguintes ações:
 
     1 - Entra dados
     2 - Listar produtos
