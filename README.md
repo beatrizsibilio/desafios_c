@@ -24,7 +24,7 @@ O código contém funções para realizar as seguintes ações:
     2 - Listar produtos
     3 - Pesquisar produto pelo nome completo
     4 - Pesquisar data de validade (mês/ano)
-    5 - Listar produtos por faixa de preço.
+    5 - Listar produtos por faixa de preço
     6 - Alterar quantidade em estoque (entrada e saída)
     7 - Alterar preço do produto
     8 - Alterar produto
